@@ -19,25 +19,7 @@
     [super viewDidLoad];
 
 
-    // commit 1
-
-    // commit 4
-
-    // commit 5
-
-    //banc 1
-
-    // branch 2
-
-    // branch 3
-
-    //new testing
-
-    //comm7
-
-    // comm 8
-
-    // comm9 
+    // commit 10
 }
 
 - (void)didReceiveMemoryWarning
