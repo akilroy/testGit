@@ -41,6 +41,8 @@
 - (void)didReceiveMemoryWarning
 {
 
+
+    // master 10
     //this
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
